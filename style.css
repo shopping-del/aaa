@@ -140,7 +140,7 @@ html, body {
 }
 
 .top-banner img {
-  width: 900px !important; /* 你想要的大小 */
+  width: 700px !important; /* 你想要的大小 */
   height: auto;
   display: block;
   margin: 0 auto 10px;
